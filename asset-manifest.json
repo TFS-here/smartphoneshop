@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smartphoneshop/static/css/main.07f14a6c.css",
+    "main.js": "/smartphoneshop/static/js/main.b3fbd2e0.js",
+    "static/js/787.50be5b2b.chunk.js": "/smartphoneshop/static/js/787.50be5b2b.chunk.js",
+    "index.html": "/smartphoneshop/index.html",
+    "main.07f14a6c.css.map": "/smartphoneshop/static/css/main.07f14a6c.css.map",
+    "main.b3fbd2e0.js.map": "/smartphoneshop/static/js/main.b3fbd2e0.js.map",
+    "787.50be5b2b.chunk.js.map": "/smartphoneshop/static/js/787.50be5b2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f14a6c.css",
+    "static/js/main.b3fbd2e0.js"
+  ]
+}
